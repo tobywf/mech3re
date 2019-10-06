@@ -1,0 +1,3 @@
+This repository is largely [Jupyter Notebooks](https://jupyter.org/) with a lot of text. This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+There is some code, for which the above license may be unsuited. Please see the companion project, [MechWarrior 3 Asset Extractor](https://github.com/tobywf/mech3ax) that is [GPLv3.0 licensed](https://github.com/tobywf/mech3ax/blob/master/LICENSE) which may be a better fit. For clarification, any code in this repository is not automatically GPLv3.0 licensed.

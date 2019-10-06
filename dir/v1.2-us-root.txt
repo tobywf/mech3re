@@ -1,0 +1,37 @@
+ Volume in drive F is MW3
+ Volume Serial Number is F4D8-EDE1
+
+ Directory of F:\
+
+21/09/1999  09:41           249.856 Autorun.exe
+30/03/1999  01:07                43 Autorun.inf
+28/09/1999  00:40                94 DATA.TAG
+02/04/1999  02:09         2.257.920 HSBR.exe
+28/09/1999  00:27            28.672 Mech3Register.exe
+05/10/1999  08:35    <DIR>          REDIST
+28/09/1999  00:33           702.976 ReadMe.doc
+28/09/1999  00:33            31.020 ReadMe.txt
+28/09/1999  00:40               104 SETUP.INI
+12/01/1999  04:42            73.728 Setup.exe
+27/10/1998  05:06            27.648 _ISDel.exe
+29/09/1998  09:34            34.816 _Setup.dll
+23/02/1999  03:45           296.674 _inst32i.ex_
+28/09/1999  00:40           175.466 _sys1.cab
+28/09/1999  00:40             3.946 _sys1.hdr
+28/09/1999  00:40            22.258 _user1.cab
+28/09/1999  00:40             4.579 _user1.hdr
+28/09/1999  00:50       198.426.905 data1.cab
+28/09/1999  00:50            23.889 data1.hdr
+26/03/1999  04:03            93.656 dialog1.bmp
+05/10/1999  08:35    <DIR>          extras
+12/01/1999  03:34            23.541 lang.dat
+28/09/1999  00:50               690 layout.bin
+30/03/1999  01:07               766 mech3.ico
+27/07/1998  09:41               450 os.dat
+03/09/1999  02:42           241.976 setup.bmp
+28/09/1999  00:39            68.652 setup.ins
+28/09/1999  00:40                49 setup.lid
+10/06/1999  08:20           308.278 splash.bmp
+05/10/1999  08:35    <DIR>          video
+              27 File(s)    203.098.652 bytes
+               3 Dir(s)               0 bytes free

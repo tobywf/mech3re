@@ -1,0 +1,38 @@
+ Volume in drive F is MW3
+ Volume Serial Number is FEF0-055A
+
+ Directory of F:\
+
+09/07/1999  01:11           249.856 Autorun.exe
+09/03/1999  06:04                43 Autorun.inf
+09/07/1999  01:59                96 DATA.TAG
+02/04/1999  03:09         2.257.920 HSBR.exe
+02/07/1999  04:40            24.576 Mech3Register.exe
+09/07/1999  12:00    <DIR>          REDIST
+09/07/1999  01:57           702.464 ReadMe.doc
+09/07/1999  01:57            30.889 ReadMe.txt
+09/07/1999  01:59               102 SETUP.INI
+12/01/1999  05:42            73.728 Setup.exe
+27/10/1998  06:06            27.648 _ISDel.exe
+29/09/1998  09:34            34.816 _Setup.dll
+23/02/1999  04:45           296.674 _inst32i.ex_
+09/07/1999  01:59           175.466 _sys1.cab
+09/07/1999  01:59             3.946 _sys1.hdr
+09/07/1999  01:59            18.092 _user1.cab
+09/07/1999  01:59             4.433 _user1.hdr
+09/07/1999  02:11       198.452.916 data1.cab
+09/07/1999  02:11            23.889 data1.hdr
+26/03/1999  11:06            93.656 dialog1.bmp
+09/07/1999  12:01    <DIR>          extras
+12/01/1999  04:34            23.541 lang.dat
+09/07/1999  02:11               690 layout.bin
+09/03/1999  06:05               766 mech3.ico
+27/07/1998  10:41               450 os.dat
+02/07/1999  05:58           241.976 setup.bmp
+02/07/1999  07:33            68.604 setup.ins
+09/07/1999  01:59                49 setup.lid
+19/04/1999  06:58           308.278 splash.bmp
+09/07/1999  11:32           448.000 toplay.doc
+09/07/1999  12:01    <DIR>          video
+              28 File(s)    203.563.564 bytes
+               3 Dir(s)               0 bytes free

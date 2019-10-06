@@ -102,3 +102,19 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# project files
+.DS_Store
+
+audio/
+install/
+models/
+patches/
+reader/
+scratch/
+video/
+materials.json
+sounds.zip
+soundsL.wav
+*.log
